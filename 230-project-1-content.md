@@ -33,7 +33,8 @@ the score on it.
    focusing on the better pebbles. The player should also be thining about how to use the egg power up. There really isnt a way to beat 
    the game other than increasing your chances for the love interest to accept the pebble with your score. 
 ## 7. Screenshots
-    filler sentence until I add hand drawen work later
+   <img> ![Game screen](images/screen.jpg "Game screen") <img>
+   <img> ![Title screen](images/title.jpg "Title screen") <img>
 ## 8. Other
   Based on the score at the end that is on the pebble persented to the love interest. I figured i could use a random function to 
   have it be the higher the score the better chance the girl penguin accepts the pebble. Also there can be a timer on each round 
